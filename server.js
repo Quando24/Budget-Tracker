@@ -3,7 +3,7 @@ const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
 
-mongoDBURI = "mongodb+srv://amysmerlick:@cluster0.wvgo1.mongodb.net/budget?retryWrites=true&w=majority"
+mongoDBURI = "mongodb+srv://Quando:Qstaxx_24@cluster0.oeu54.mongodb.net/Budget-Tracker?retryWrites=true&w=majority"
 
 mongoose.connect(
     mongoDBURI,
